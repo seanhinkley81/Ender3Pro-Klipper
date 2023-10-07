@@ -14,6 +14,9 @@ uncomment or delete the pressure advance lines under extruder section as your pr
 
 
 https://cults3d.com/en/3d-model/tool/fystec-pis-ender-3-pro-mount-bed-nozzle
+
 https://github.com/Gliptopolis/WLED_Klipper 
+
 https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
+
 https://github.com/seanhinkley81/Ender3Pro_Manual_Gantry_Level
