@@ -8,6 +8,9 @@ Ender 3 Pro Klipper
  
 Some added Macros, nozzle_wipe,led lighting (wled +ws12*), Config File for Fystec FIS Inpuut Shaper input_shaper.cfg 
 
+added sound module and m300 codes
+https://a.co/d/9G5Zwxm
+
 Klipper Adaptive Meshing & Purging 
 
 Upgraded to BTT SKR Mini v3 (firmware.bin) 
@@ -30,3 +33,5 @@ https://github.com/Gliptopolis/WLED_Klipper ;
 https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging ;
 
 https://github.com/seanhinkley81/Ender3Pro_Manual_Gantry_Level ;
+
+https://cults3d.com/en/3d-model/tool/nozzle-wipe-spider-v1
